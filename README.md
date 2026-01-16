@@ -56,21 +56,29 @@
 ## 📈 项目动态
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrangeBigBaby&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&card_width=400" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OrangeBigBaby&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" alt="GitHub Stats" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrangeBigBaby&theme=radical&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=OrangeBigBaby&stroke=FF6B6B&background=0D1117&ring=4ECDC4&fire=FFA07A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FF6B6B&hide_border=true" alt="GitHub Streak" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeBigBaby&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&card_width=300" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeBigBaby&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="Top Languages" width="100%"/>
 </div>
 
 ## 🏆 成就展示
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OrangeBigBaby&theme=radical&no-frame=true&margin-w=20&column=6" alt="GitHub Trophy" width="800"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OrangeBigBaby&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4" alt="WakaTime" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=OrangeBigBaby&theme=radical&hide_border=true&bg_color=0D1117&line=FF6B6B&point=4ECDC4&area=true" alt="Activity Graph" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OrangeBigBaby&repo=OrangeBigBaby&theme=radical&hide_border=true&bg_color=0D1117" alt="Repo Stats" width="100%"/>
 </div>
 
 ## 🌟 每日语录
