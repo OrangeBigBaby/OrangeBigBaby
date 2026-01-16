@@ -56,21 +56,21 @@
 ## 📈 项目动态
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrangeBigBaby&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OrangeBigBaby&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&card_width=400" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrangeBigBaby&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrangeBigBaby&theme=radical&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeBigBaby&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeBigBaby&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&card_width=300" alt="Top Languages"/>
 </div>
 
 ## 🏆 成就展示
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OrangeBigBaby&theme=radical&no-frame=true&margin-w=20" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OrangeBigBaby&theme=radical&no-frame=true&margin-w=20&column=6" alt="GitHub Trophy" width="800"/>
 </div>
 
 ## 🌟 每日语录
@@ -85,9 +85,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OrangeBigBaby.OrangeBigBaby" alt="Visitor Badge"/>
   <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Profile+Views&query=%24.views&url=https%3A%2F%2Fapi.github.com%2Fusers%2FOrangeBigBaby" alt="Views"/>
 </div>
-
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/combined?username=OrangeBigBaby&repo=OrangeBigBaby&countColor=%23263759&labelColor=%23551199&style=for-the-badge" alt="Visitors"/>
 </div>
 
 ---
