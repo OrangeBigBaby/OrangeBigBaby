@@ -24,27 +24,47 @@
 - **单细胞转录组学**数据解析与细胞异质性研究
 - **湿实验验证**搭建计算与实验的桥梁
 
-## 📊 技术栈特色
+## � 技术栈
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,python,postgres,vim" />
+  </a>
+</p>
+
+## 📊 技术栈特色
 
 - 开发基于CNN/Transformer的病理图像分析管道
 - 构建多组学数据整合的疾病分型模型
 - 建立从基因表达到临床表型的可解释AI框架
+
+## 💰 量化金融
+
+<div align="center">
+  <img src="https://img.shields.io/badge/量化金融-量化建模-FF6B6B?style=flat-square" alt="Quant Finance">
+  <img src="https://img.shields.io/badge/策略回测-实盘CTA-4ECDC4?style=flat-square" alt="Backtesting">
+  <img src="https://img.shields.io/badge/中低频-大模型因子-45B7D1?style=flat-square" alt="Factor Mining">
+</div>
+
+- 量化金融与量化建模
+- 策略回测与实盘CTA交易
+- 中低频策略开发
+- 大模型因子挖掘
 
 ## 🤝 合作意向
 
@@ -52,33 +72,28 @@
 - 临床医学问题驱动的算法开发
 - 生物标志物发现与实验验证
 - 医疗AI模型的可解释性与临床转化
+- 量化金融与策略研究
 
-## 📈 项目动态
+## 📈 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrangeBigBaby&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" alt="GitHub Stats" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OrangeBigBaby&theme=dark&show_icons=true" alt="GitHub Stats"/>
 </div>
 
+## � 活动统计
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=OrangeBigBaby&stroke=FF6B6B&background=0D1117&ring=4ECDC4&fire=FFA07A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FF6B6B&hide_border=true" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeBigBaby&theme=dracula" alt="Activity Graph"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeBigBaby&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="Top Languages" width="100%"/>
-</div>
-
-## 🏆 成就展示
+## 🏆 成就徽章
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OrangeBigBaby&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4" alt="WakaTime" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=OrangeBigBaby&theme=radical&hide_border=true&bg_color=0D1117&line=FF6B6B&point=4ECDC4&area=true" alt="Activity Graph" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OrangeBigBaby&repo=OrangeBigBaby&theme=radical&hide_border=true&bg_color=0D1117" alt="Repo Stats" width="100%"/>
+  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <rect width="400" height="100" fill="#0D1117" rx="10"/>
+    <text x="200" y="50" text-anchor="middle" fill="#FF6B6B" font-size="20" font-family="Arial">🏆 Achievements</text>
+    <text x="200" y="75" text-anchor="middle" fill="#4ECDC4" font-size="14" font-family="Arial">Continuously Improving</text>
+  </svg>
 </div>
 
 ## 🌟 每日语录
@@ -87,12 +102,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes"/>
 </div>
 
-## 🌍 访客地图
+## 🌍 访客统计
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OrangeBigBaby.OrangeBigBaby" alt="Visitor Badge"/>
   <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Profile+Views&query=%24.views&url=https%3A%2F%2Fapi.github.com%2Fusers%2FOrangeBigBaby" alt="Views"/>
-</div>
 </div>
 
 ---
@@ -129,27 +143,47 @@
 - **Single-cell transcriptomics** data analysis and cellular heterogeneity research
 - **Wet-lab validation** bridging computational and experimental approaches
 
-## 📊 Technical Expertise
+## 💻 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,python,postgres,vim" />
+  </a>
+</p>
+
+## 📊 Technical Expertise
 
 - Developing CNN/Transformer-based pipelines for pathological image analysis
 - Constructing multi-omics integrated disease subtyping models
 - Building interpretable AI frameworks from gene expression to clinical phenotypes
+
+## 💰 Quantitative Finance
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Quant_Finance-Modeling-FF6B6B?style=flat-square" alt="Quant Finance">
+  <img src="https://img.shields.io/badge/Backtesting-Live_CTA-4ECDC4?style=flat-square" alt="Backtesting">
+  <img src="https://img.shields.io/badge/Medium_Low_Freq-LLM_Factors-45B7D1?style=flat-square" alt="Factor Mining">
+</div>
+
+- Quantitative finance and quantitative modeling
+- Strategy backtesting and live CTA trading
+- Medium-low frequency strategy development
+- Large language model factor mining
 
 ## 🤝 Collaboration Interests
 
@@ -157,31 +191,41 @@ Welcome to connect with peers in:
 - Clinically-driven algorithm development
 - Biomarker discovery and experimental validation
 - Interpretability and clinical translation of medical AI models
+- Quantitative finance and strategy research
 
-## 📈 Project Activity
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrangeBigBaby&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OrangeBigBaby&theme=dark&show_icons=true" alt="GitHub Stats"/>
 </div>
 
+## 📊 Activity Graph
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrangeBigBaby&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeBigBaby&theme=dracula" alt="Activity Graph"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeBigBaby&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</div>
-
-## 🏆 Achievements
+## 🏆 Achievements Badge
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OrangeBigBaby&theme=radical&no-frame=true&margin-w=20" alt="GitHub Trophy"/>
+  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <rect width="400" height="100" fill="#0D1117" rx="10"/>
+    <text x="200" y="50" text-anchor="middle" fill="#FF6B6B" font-size="20" font-family="Arial">🏆 Achievements</text>
+    <text x="200" y="75" text-anchor="middle" fill="#4ECDC4" font-size="14" font-family="Arial">Continuously Improving</text>
+  </svg>
 </div>
 
 ## 🌟 Daily Quotes
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes"/>
+</div>
+
+## 🌍 Visitor Stats
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OrangeBigBaby.OrangeBigBaby" alt="Visitor Badge"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Profile+Views&query=%24.views&url=https%3A%2F%2Fapi.github.com%2Fusers%2FOrangeBigBaby" alt="Views"/>
 </div>
 
 ---
