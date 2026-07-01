@@ -117,32 +117,3 @@ Welcome to connect with peers in:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeBigBaby&theme=dracula" alt="Activity Graph"/>
 </div>
-
-## 🏆 Achievements Badge
-
-<div align="center">
-  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
-    <rect width="400" height="100" fill="#0D1117" rx="10"/>
-    <text x="200" y="50" text-anchor="middle" fill="#FF6B6B" font-size="20" font-family="Arial">🏆 Achievements</text>
-    <text x="200" y="75" text-anchor="middle" fill="#4ECDC4" font-size="14" font-family="Arial">Continuously Improving</text>
-  </svg>
-</div>
-
-## 🌟 Daily Quotes
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes"/>
-</div>
-
-## 🌍 Visitor Stats
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OrangeBigBaby.OrangeBigBaby" alt="Visitor Badge"/>
-  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Profile+Views&query=%24.views&url=https%3A%2F%2Fapi.github.com%2Fusers%2FOrangeBigBaby" alt="Views"/>
-</div>
-
----
-<div align="center">
-  <p>💡 Let's explore the frontiers where computational science meets life sciences together!</p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADB5&width=400&lines=探索+计算科学+与+生命科学的+交叉前沿" alt="Typing SVG" />
-</div>
