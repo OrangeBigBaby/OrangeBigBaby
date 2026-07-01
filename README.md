@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi!+I'm+Klis+Su;+%E5%BB%BA%E7%AB%8B%E4%BB%8E%E5%A4%9A%E7%BB%84%E5%AD%A6%E6%95%B0%E6%8D%AE%E5%88%B0%E5%A4%9A%E7%BB%B4%E4%B8%B4%E5%BA%8A%E6%95%B0%E6%8D%AE%E7%9A%84%E5%8F%AF%E8%A7%A3%E9%87%8A%E5%BB%BA%E6%A8%A1%E6%A1%A5%E6%A2%81;+%F0%9F%94%AC+Systematic+Review+%26+Reproducible+Biomedical+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi!+I'm+Klis+Su; alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -66,7 +66,7 @@ A unified methodology backbone running through all current projects:
 
 - **多组学层面** —— 批量/单细胞转录组、表观遗传（如m6A调控因子）、免疫微环境刻画
 - **临床数据层面** —— 公共数据库队列（NHANES / CHARLS / SEER）+ 院内注册研究与CRF
-- **建模层面** —— 可解释AI（SHAP、特征归因），连接分子信号与临床表型
+- **建模层面** —— 可解释AI，连接分子信号与临床表型
 - **转化层面** —— 生物标志物发现、预后建模、临床决策支持
 
 ## 💰 Quantitative Finance
@@ -102,8 +102,8 @@ Welcome to connect with peers in:
 
 欢迎与以下方向的同行交流：
 - **颅咽管瘤与垂体瘤** —— 基础研究、免疫微环境、临床转化、多中心注册
-- **公共数据库临床流行病学** —— NHANES / CHARLS / SEER 等跨病种证据生成
-- **生物医学LLM智能体** —— 可审计、可复现的分析流水线（如EEG生物标志物发现）
+- **公共数据库临床流行病学** ——跨病种证据生成
+- **生物医学LLM智能体** —— 可审计、可复现的分析流水线
 - **量化金融与策略研究** —— 因子挖掘、技术择时与CTA信号设计、多资产回测、A股因子评估
 
 ## 📈 GitHub Stats
