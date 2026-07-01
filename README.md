@@ -20,13 +20,13 @@
 </div>
 
 - **Craniopharyngioma & pituitary tumors** — basic and clinical research, with multi-omics dissection of the tumor immune microenvironment and clinical translation
-- **Public-database clinical epidemiology** — reusable workflows over NHANES / CHARLS / SEER for cross-disease evidence generation
-- **LLM-assisted EEG analysis & data mining** — auditable agents for resting-state EEG biomarker discovery in dementia
+- **Public-database clinical epidemiology** — cross-disease evidence generation
+- **LLM-assisted EEG analysis & data mining** — auditable agents
 - **Interpretable AI framework** — building bridges from multi-omics data to multi-dimensional clinical data with explainable modeling
 
 - **颅咽管瘤、垂体瘤基础和临床研究** —— 聚焦多组学探究免疫微环境与临床转化
-- **公共数据库临床流行病学** —— NHANES / CHARLS / SEER 等可复用工作流，跨病种证据生成
-- **LLM辅助的EEG分析与数据挖掘** —— 用于痴呆静息态EEG生物标志物发现的可审计智能体
+- **公共数据库临床流行病学** —— 跨病种证据生成
+- **LLM辅助的EEG分析与数据挖掘** —— 可审计智能体
 - **可解释AI框架** —— 建立从多组学数据到多维临床数据的可解释建模桥梁
 
 ## 💻 Tech Stack
